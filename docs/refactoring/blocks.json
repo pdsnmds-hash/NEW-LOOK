@@ -1,0 +1,56 @@
+[
+  {
+    "name": "uuid_and_entities",
+    "source": "app/src/main/java/bg/newlook/data/Database.kt",
+    "start": "fun uuid(): String",
+    "end": "@Dao\n",
+    "target": "app/src/main/java/bg/newlook/data/Entities.kt",
+    "sha256": "b930b9eb3b8515450d079fbd2927a3d674ca515c0626f22584c6cf0f7a868ac2",
+    "bytes": 3540
+  },
+  {
+    "name": "TaskEditor",
+    "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+    "start": "@Composable\nfun TaskEditor(",
+    "end": "@Composable\nfun ProjectEditor(",
+    "target": "app/src/main/java/bg/newlook/ui/TaskEditor.kt",
+    "sha256": "6612dcfb73429f085237aa8cf26fa609a04a62c6179279e0a4a8f6d667e84237",
+    "bytes": 14738
+  },
+  {
+    "name": "ProjectEditor",
+    "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+    "start": "@Composable\nfun ProjectEditor(",
+    "end": "@Composable\nfun EventEditor(",
+    "target": "app/src/main/java/bg/newlook/ui/ProjectEditor.kt",
+    "sha256": "37249957922bde0686e6ddc688075aed41d29fb180d978b74dfc40b4273ab484",
+    "bytes": 3150
+  },
+  {
+    "name": "EventEditor",
+    "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+    "start": "@Composable\nfun EventEditor(",
+    "end": "@Composable\nfun NoteEditor(",
+    "target": "app/src/main/java/bg/newlook/ui/EventEditor.kt",
+    "sha256": "32185ac2de87bf4a308d337db3ac5cd70c6818d04a7491d76917f18abf7f36c6",
+    "bytes": 4661
+  },
+  {
+    "name": "NoteEditor",
+    "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+    "start": "@Composable\nfun NoteEditor(",
+    "end": "@Composable\nfun SnoozeControls(",
+    "target": "app/src/main/java/bg/newlook/ui/NoteEditor.kt",
+    "sha256": "048c1eb3777ec76fcb5d6f76d1e2d585ac3825168d9f8a3fb544f123566edfd5",
+    "bytes": 3430
+  },
+  {
+    "name": "SnoozeControls",
+    "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+    "start": "@Composable\nfun SnoozeControls(",
+    "end": null,
+    "target": "app/src/main/java/bg/newlook/ui/TaskEditor.kt",
+    "sha256": "818ca796541069e4db5988e099e9ccbd3054de9c7687bfb003b82aec46dfcf8d",
+    "bytes": 2210
+  }
+]

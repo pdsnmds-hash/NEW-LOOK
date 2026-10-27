@@ -1,0 +1,37 @@
+{
+  "before": {
+    "identity": [
+      "package: name='bg.newlook.organizer' versionCode='2' versionName='1.1.0' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'",
+      "targetSdkVersion:'36'"
+    ],
+    "native_abis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "certificate_sha256": [
+      "598ed848868ecedae48ad6f05646c5502c46a3436551b3ce373ffdc633fdab72"
+    ],
+    "apk_sha256": "2d8c5d35a8b108beec4c0bf79d130b436e15db8100dcd655293f72a928e5e38b"
+  },
+  "after": {
+    "identity": [
+      "package: name='bg.newlook.organizer' versionCode='2' versionName='1.1.0' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'",
+      "targetSdkVersion:'36'"
+    ],
+    "native_abis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "certificate_sha256": [
+      "598ed848868ecedae48ad6f05646c5502c46a3436551b3ce373ffdc633fdab72"
+    ],
+    "apk_sha256": "696300a14dce4a0d7e372634257e503136438429a6b4af17bbaf738c701e481b"
+  },
+  "identity_sdk_abis_signature_unchanged": true,
+  "room_schema_2_sha256": "9d4966873ebc0263f466d4161cc5b152b1f52481a6a3f5c07a14a854292aea5d",
+  "room_schema_matches_preexisting_source_bundle": true
+}

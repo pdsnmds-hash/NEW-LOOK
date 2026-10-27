@@ -1,0 +1,63 @@
+{
+  "project": "NEW LOOK",
+  "comparison": "UTF-8 bytes, no whitespace/comment normalization",
+  "blocks": [
+    {
+      "name": "uuid_and_entities",
+      "source": "app/src/main/java/bg/newlook/data/Database.kt",
+      "target": "app/src/main/java/bg/newlook/data/Entities.kt",
+      "bytes": 3540,
+      "before_sha256": "b930b9eb3b8515450d079fbd2927a3d674ca515c0626f22584c6cf0f7a868ac2",
+      "after_sha256": "b930b9eb3b8515450d079fbd2927a3d674ca515c0626f22584c6cf0f7a868ac2",
+      "equal": true
+    },
+    {
+      "name": "TaskEditor",
+      "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+      "target": "app/src/main/java/bg/newlook/ui/TaskEditor.kt",
+      "bytes": 14738,
+      "before_sha256": "6612dcfb73429f085237aa8cf26fa609a04a62c6179279e0a4a8f6d667e84237",
+      "after_sha256": "6612dcfb73429f085237aa8cf26fa609a04a62c6179279e0a4a8f6d667e84237",
+      "equal": true
+    },
+    {
+      "name": "ProjectEditor",
+      "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+      "target": "app/src/main/java/bg/newlook/ui/ProjectEditor.kt",
+      "bytes": 3150,
+      "before_sha256": "37249957922bde0686e6ddc688075aed41d29fb180d978b74dfc40b4273ab484",
+      "after_sha256": "37249957922bde0686e6ddc688075aed41d29fb180d978b74dfc40b4273ab484",
+      "equal": true
+    },
+    {
+      "name": "EventEditor",
+      "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+      "target": "app/src/main/java/bg/newlook/ui/EventEditor.kt",
+      "bytes": 4661,
+      "before_sha256": "32185ac2de87bf4a308d337db3ac5cd70c6818d04a7491d76917f18abf7f36c6",
+      "after_sha256": "32185ac2de87bf4a308d337db3ac5cd70c6818d04a7491d76917f18abf7f36c6",
+      "equal": true
+    },
+    {
+      "name": "NoteEditor",
+      "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+      "target": "app/src/main/java/bg/newlook/ui/NoteEditor.kt",
+      "bytes": 3430,
+      "before_sha256": "048c1eb3777ec76fcb5d6f76d1e2d585ac3825168d9f8a3fb544f123566edfd5",
+      "after_sha256": "048c1eb3777ec76fcb5d6f76d1e2d585ac3825168d9f8a3fb544f123566edfd5",
+      "equal": true
+    },
+    {
+      "name": "SnoozeControls",
+      "source": "app/src/main/java/bg/newlook/ui/Editors.kt",
+      "target": "app/src/main/java/bg/newlook/ui/TaskEditor.kt",
+      "bytes": 2210,
+      "before_sha256": "818ca796541069e4db5988e099e9ccbd3054de9c7687bfb003b82aec46dfcf8d",
+      "after_sha256": "818ca796541069e4db5988e099e9ccbd3054de9c7687bfb003b82aec46dfcf8d",
+      "equal": true
+    }
+  ],
+  "unchanged_archived_files": 76,
+  "source_residuals_exact": true,
+  "new_files_only_headers_and_verbatim_blocks": true
+}

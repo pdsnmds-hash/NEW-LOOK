@@ -1,0 +1,37 @@
+{
+  "light": {
+    "background": "#F7F8FC",
+    "surface": "#FFFFFF",
+    "text": "#182238",
+    "secondary": "#596579",
+    "primary": "#4338CA",
+    "accent": "#0F766E",
+    "soft": "#EEECFF",
+    "border": "#DDE2EC"
+  },
+  "dark": {
+    "background": "#101321",
+    "surface": "#1A2033",
+    "text": "#F3F5FC",
+    "secondary": "#B7C0D4",
+    "primary": "#B6ACFF",
+    "accent": "#70D6C5",
+    "soft": "#242C43",
+    "border": "#37415B"
+  },
+  "spacingDp": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    32,
+    40
+  ],
+  "radiusDp": {
+    "card": 24,
+    "input": 12
+  },
+  "touchTargetDp": 48
+}

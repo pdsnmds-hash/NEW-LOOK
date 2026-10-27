@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bg.newlook.domain.RulesTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2026-10-27T07:37:58.703Z" hostname="MacBook-Air-User.local" time="0.303">
+  <properties/>
+  <testcase name="rejectsBrokenReferencesAndDuplicateIds" classname="bg.newlook.domain.RulesTest" time="0.172"/>
+  <testcase name="filtersUseOrWithinAndBetweenGroups" classname="bg.newlook.domain.RulesTest" time="0.01"/>
+  <testcase name="finderChangesWithAnswers" classname="bg.newlook.domain.RulesTest" time="0.003"/>
+  <testcase name="backupRoundtripRetainsIdsAndLinks" classname="bg.newlook.domain.RulesTest" time="0.011"/>
+  <testcase name="monthlyPreservesOriginalDayAcrossShortMonths" classname="bg.newlook.domain.RulesTest" time="0.011"/>
+  <testcase name="timedDeadlinesBecomeOverdueWithinTheDay" classname="bg.newlook.domain.RulesTest" time="0.003"/>
+  <testcase name="recurrenceDatesSurviveDst" classname="bg.newlook.domain.RulesTest" time="0.001"/>
+  <testcase name="allTemplatesAreConcreteAndHaveStableIds" classname="bg.newlook.domain.RulesTest" time="0.004"/>
+  <testcase name="eventSpansMidnight" classname="bg.newlook.domain.RulesTest" time="0.002"/>
+  <testcase name="weeklyAndEndConditions" classname="bg.newlook.domain.RulesTest" time="0.004"/>
+  <testcase name="rejectsBadDatesStatusAndRanges" classname="bg.newlook.domain.RulesTest" time="0.012"/>
+  <testcase name="exactMidnightIsExclusive" classname="bg.newlook.domain.RulesTest" time="0.0"/>
+  <testcase name="excludedOccurrencesSurviveBackup" classname="bg.newlook.domain.RulesTest" time="0.003"/>
+  <testcase name="icsExportsAllDayAndUtc" classname="bg.newlook.domain.RulesTest" time="0.02"/>
+  <testcase name="dateOnlyGroupingAndCompletion" classname="bg.newlook.domain.RulesTest" time="0.001"/>
+  <testcase name="nonLeapAndLargeInterval" classname="bg.newlook.domain.RulesTest" time="0.003"/>
+  <testcase name="csvProtectsFormulasAndQuotes" classname="bg.newlook.domain.RulesTest" time="0.014"/>
+  <testcase name="demoContentFollowsLanguageWithoutTranslatingUserEdits" classname="bg.newlook.domain.RulesTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

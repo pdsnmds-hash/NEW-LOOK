@@ -1,0 +1,13 @@
+{
+  "app/src/main/java/bg/newlook/ui/Editors.kt": [
+    "import androidx.lifecycle.Lifecycle\n",
+    "import androidx.lifecycle.LifecycleEventObserver\n",
+    "import androidx.lifecycle.compose.LocalLifecycleOwner\n",
+    "import androidx.compose.ui.semantics.contentDescription\n",
+    "import androidx.compose.ui.semantics.semantics\n",
+    "import kotlinx.coroutines.*\n"
+  ],
+  "app/src/main/java/bg/newlook/data/Database.kt": [
+    "import java.util.UUID\n"
+  ]
+}
