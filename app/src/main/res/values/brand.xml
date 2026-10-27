@@ -1,0 +1,9 @@
+<resources>
+ <color name="brand_splash">#10131B</color>
+ <style name="AppStartingTheme" parent="Theme.SplashScreen">
+  <item name="windowSplashScreenBackground">@color/brand_splash</item>
+  <item name="windowSplashScreenAnimatedIcon">@drawable/launcher_foreground</item>
+  <item name="postSplashScreenTheme">@style/AppTheme</item>
+  <item name="android:windowLightStatusBar">false</item>
+ </style>
+</resources>

@@ -1,0 +1,448 @@
+<resources>
+<string name="app_name">NEW LOOK</string>
+<string name="reminders">Напомняния</string>
+<string name="complete">Завърши</string>
+<string name="ui_3bee53e8" formatted="false">Назад</string>
+<string name="ui_c36067d8" formatted="false">Търсете нещо…</string>
+<string name="ui_635cec07" formatted="false">Изчисти търсенето</string>
+<string name="ui_c863b8fc" formatted="false">Добавете нещо за днес…</string>
+<string name="ui_a81c358f" formatted="false">Добави задача</string>
+<string name="ui_1eae5e3" formatted="false">Демо</string>
+<string name="ui_1081ca63" formatted="false">Просрочена</string>
+<string name="ui_24a80096" formatted="false">Отвори задача</string>
+<string name="ui_e042010f" formatted="false">Завършена</string>
+<string name="ui_ec15f7a3" formatted="false">В процес</string>
+<string name="ui_3efb3d38" formatted="false">За изпълнение</string>
+<string name="ui_3bf21f96" formatted="false">Нисък</string>
+<string name="ui_3b571b97" formatted="false">Висок</string>
+<string name="ui_498261d9" formatted="false">Спешен</string>
+<string name="ui_3020cef0" formatted="false">Нормален</string>
+<string name="ui_c1fe6b90" formatted="false">Все още няма задачи</string>
+<string name="ui_68cfe137" formatted="false">завършени</string>
+<string name="ui_fd1bc" formatted="false">ДЕН</string>
+<string name="ui_f94fb88f" formatted="false">Събитие</string>
+<string name="ui_cc9c89a4" formatted="false">Задачата е изпълнена!</string>
+<string name="ui_a6c2dc98" formatted="false">Време за среща.</string>
+<string name="ui_35cc84f7" formatted="false">КАЛЕНДАР</string>
+<string name="ui_ac7e6f35" formatted="false">Планирайте следващата среща или вижте вече запазените дати.</string>
+<string name="ui_a6d19577" formatted="false">Планирай среща</string>
+<string name="ui_674e211b" formatted="false">Изберете дата и добавете подробностите.</string>
+<string name="ui_f9f50c2e" formatted="false">Моите срещи</string>
+<string name="ui_1cd7d9ca" formatted="false">Вижте срещите си и заетите дати в календара.</string>
+<string name="ui_5bf2fc96" formatted="false">Изберете ден за новата среща.</string>
+<string name="ui_17e87c9" formatted="false">Отбелязаните дни имат запазени срещи. Докоснете дата, за да ги видите.</string>
+<string name="ui_b6a5a291" formatted="false">Предишен месец</string>
+<string name="ui_ab321dcb" formatted="false">Следващ месец</string>
+<string name="ui_3df0e385" formatted="false">срещи</string>
+<string name="ui_61ffad39" formatted="false">Ден със срещи</string>
+<string name="ui_1eb0315" formatted="false">Днес</string>
+<string name="ui_e90525da" formatted="false">Планирай за тази дата</string>
+<string name="ui_b82793e5" formatted="false">Няма срещи за тази дата.</string>
+<string name="ui_6b11713b" formatted="false">Изберете отбелязан ден или планирайте нова среща.</string>
+<string name="ui_a6b97bba" formatted="false">Пространството не се отвори.</string>
+<string name="ui_d75d72da" formatted="false">Записите не са изтрити. Опитайте отново.</string>
+<string name="ui_8ca31f1d" formatted="false">Опитай отново</string>
+<string name="ui_231f934d" formatted="false">Нова бележка</string>
+<string name="ui_b4a0870f" formatted="false">Нов проект</string>
+<string name="ui_b08bbd5c" formatted="false">Ново събитие</string>
+<string name="ui_d146f81f" formatted="false">Нова задача</string>
+<string name="ui_5af5f922" formatted="false">Търсене навсякъде</string>
+<string name="ui_7f288378" formatted="false">Проекти</string>
+<string name="ui_5ba7936d" formatted="false">Активни</string>
+<string name="ui_3b3e9dcf" formatted="false">Архив</string>
+<string name="ui_fcceef7d" formatted="false">Избрани</string>
+<string name="ui_84cd6138" formatted="false">Запазете полезното.</string>
+<string name="ui_219f6fc5" formatted="false">Добавете услуга, статия или шаблон в избрани.</string>
+<string name="ui_633ccad9" formatted="false">Неуспешно действие</string>
+<string name="ui_bce02f2d" formatted="false">Затвори</string>
+<string name="ui_18156546" formatted="false">Има незавършени подзадачи</string>
+<string name="ui_8664e204" formatted="false">Да завършим ли всички подзадачи?</string>
+<string name="ui_a968501d" formatted="false">Завърши всички</string>
+<string name="ui_ac92b555" formatted="false">Файлове в проекта</string>
+<string name="ui_88edd492" formatted="false">Документи и снимки, събрани около вашата работа.</string>
+<string name="ui_1a920fbf" formatted="false">Добави файл</string>
+<string name="ui_b9e5da47" formatted="false">Добави снимка</string>
+<string name="ui_66756ed2" formatted="false">Копиране на файловете…</string>
+<string name="ui_d1f8cc23" formatted="false">Локални копия · до 50 MB на файл. Оригиналите не се променят.</string>
+<string name="ui_dbfa0d52" formatted="false">Всичко за проекта, на едно място.</string>
+<string name="ui_53bb9fa9" formatted="false">Добавете първия документ или снимка.</string>
+<string name="ui_448c9d28" formatted="false">Отвори</string>
+<string name="ui_e73f995e" formatted="false">Сподели</string>
+<string name="ui_56ea76d8" formatted="false">Премахни</string>
+<string name="ui_200a48e" formatted="false">файл</string>
+<string name="ui_3e13f162" formatted="false">файла</string>
+<string name="ui_79e4ea4a" formatted="false">JSON архивът съдържа работните записи, без прикачените файлове. Запазете важните оригинали отделно.</string>
+<string name="ui_d43b22bd" formatted="false">Премахване на файла?</string>
+<string name="ui_b0b28587" formatted="false">Изтрива се само копието в приложението. Оригиналът се запазва.</string>
+<string name="ui_6e903249" formatted="false">Една по една.</string>
+<string name="ui_4fd4bb1d" formatted="false">МОИТЕ ЗАДАЧИ</string>
+<string name="ui_e7e49c7c" formatted="false">Малки стъпки. Видим напредък.</string>
+<string name="ui_3007397c" formatted="false">Всички</string>
+<string name="ui_1081ca6b" formatted="false">Просрочени</string>
+<string name="ui_325e766" formatted="false">7 дни</string>
+<string name="ui_2c3e39a8" formatted="false">Без срок</string>
+<string name="ui_e0420117" formatted="false">Завършени</string>
+<string name="ui_d7ff9795" formatted="false">Входящи</string>
+<string name="ui_6e38d2a6" formatted="false">задачи</string>
+<string name="ui_4e40ec33" formatted="false">Филтри</string>
+<string name="ui_31963493" formatted="false">Готово</string>
+<string name="ui_3baaf834" formatted="false">Избор</string>
+<string name="ui_9996579d" formatted="false">избрани</string>
+<string name="ui_bc09a87f" formatted="false">Завърши</string>
+<string name="ui_a17abc50" formatted="false">Действия</string>
+<string name="ui_4cdfe615" formatted="false">Няма задачи тук.</string>
+<string name="ui_648b81bd" formatted="false">Добавете задача или променете филтрите.</string>
+<string name="ui_437d3a98" formatted="false">Избраните задачи.</string>
+<string name="ui_de5c2e4a" formatted="false">Нов срок</string>
+<string name="ui_401fcf35" formatted="false">Промени само срока</string>
+<string name="ui_af167ed9" formatted="false">Назначи само проекта</string>
+<string name="ui_ce8560c" formatted="false">Експорт на избраните CSV</string>
+<string name="ui_cdd7464e" formatted="false">Изтрий избраните</string>
+<string name="ui_6c8252ab" formatted="false">Изглед по ваш вкус.</string>
+<string name="ui_49aa4db1" formatted="false">Статус</string>
+<string name="ui_295c6d10" formatted="false">Приоритет</string>
+<string name="ui_462a98c0" formatted="false">Проект</string>
+<string name="ui_f5bdc646" formatted="false">Тагове (разделени със запетая)</string>
+<string name="ui_1f0f83b" formatted="false">Срок</string>
+<string name="ui_12445a23" formatted="false">Със срок</string>
+<string name="ui_91082fc0" formatted="false">Подреждане</string>
+<string name="ui_19d5e560" formatted="false">Създаване</string>
+<string name="ui_fe019207" formatted="false">Изчисти</string>
+<string name="ui_a4814a62" formatted="false">Покажи задачите</string>
+<string name="ui_ba33d24d" formatted="false">Завършване на избраните задачи?</string>
+<string name="ui_f87eb786" formatted="false">Всички незавършени подзадачи също ще бъдат завършени.</string>
+<string name="ui_506ac32b" formatted="false">Изтриване на избраните задачи?</string>
+<string name="ui_c587cd6a" formatted="false">задачи ще бъдат изтрити.</string>
+<string name="ui_57fe1f66" formatted="false">Нищо не открихме.</string>
+<string name="ui_a2010b48" formatted="false">Опитайте друга дума или по-кратка фраза.</string>
+<string name="ui_379dbec6" formatted="false">Задачи</string>
+<string name="ui_87a1a096" formatted="false">Бележки</string>
+<string name="ui_9bca0e0d" formatted="false">Без заглавие</string>
+<string name="ui_2ddf6dfb" formatted="false">От NEW LOOK</string>
+<string name="ui_180640f2" formatted="false">Резервни копия</string>
+<string name="ui_5e6ca640" formatted="false">Вие управлявате данните си.</string>
+<string name="ui_53f35355" formatted="false">JSON копието съдържа работните записи без прикачените файлове и не е шифровано. Запазете оригиналните файлове отделно. Автоматичното облачно архивиране е изключено.</string>
+<string name="ui_4d6c8100" formatted="false">Експорт на работните записи</string>
+<string name="ui_889d8d76" formatted="false">Експорт на задачи CSV</string>
+<string name="ui_bedd7d7a" formatted="false">Импорт на JSON</string>
+<string name="ui_5f9d82eb" formatted="false">Импортът заменя текущото пространство само след проверка и потвърждение. Максимум 10 MB и 20 000 записа.</string>
+<string name="ui_b204ca48" formatted="false">Работното пространство е възстановено.</string>
+<string name="ui_8f1eeb15" formatted="false">Предварителен преглед</string>
+<string name="ui_1befeb98" formatted="false">проекти</string>
+<string name="ui_961720c9" formatted="false">събития</string>
+<string name="ui_246908b6" formatted="false">бележки</string>
+<string name="ui_fcca0e2" formatted="false">Първо запазете копие на текущите записи.</string>
+<string name="ui_4dfc2ebe" formatted="false">Запази текущо копие</string>
+<string name="ui_1afcebc" formatted="false">Замени текущото пространство</string>
+<string name="ui_3c04a55d" formatted="false">Отказ</string>
+<string name="ui_de7db199" formatted="false">Замяна на всички текущи записи?</string>
+<string name="ui_557afa55" formatted="false">Проверете дали сте запазили резервно копие. Действието заменя цялото пространство.</string>
+<string name="ui_13044b55" formatted="false">По вашия начин.</string>
+<string name="ui_f2ba069a" formatted="false">Малките настройки правят голяма разлика.</string>
+<string name="ui_e2ad7d4" formatted="false">Запознаване с приложението</string>
+<string name="ui_69272b19" formatted="false">Външен вид</string>
+<string name="ui_db7e50d1" formatted="false">Система</string>
+<string name="ui_48cb1a73" formatted="false">Светла</string>
+<string name="ui_3c40af67" formatted="false">Тъмна</string>
+<string name="ui_1eb6144" formatted="false">Език</string>
+<string name="ui_f979d21a" formatted="false">Вашата седмица</string>
+<string name="ui_ffb2d488" formatted="false">Начало на седмицата</string>
+<string name="ui_f04ea67c" formatted="false">Понеделник</string>
+<string name="ui_4221596d" formatted="false">Неделя</string>
+<string name="ui_3289e461" formatted="false">Стандартно напомняне</string>
+<string name="ui_a5f8b9b8" formatted="false">Напомняния</string>
+<string name="ui_fd419bbd" formatted="false">Локални известия</string>
+<string name="ui_d7d97a4" formatted="false">Разрешени</string>
+<string name="ui_da0ca797" formatted="false">Изключени</string>
+<string name="ui_39f3114f" formatted="false">Android може да забави доставката. Задачите и календарът работят и без разрешение.</string>
+<string name="ui_a128840f" formatted="false">Управление на известията</string>
+<string name="ui_e906cb6" formatted="false">Работно пространство</string>
+<string name="ui_1befeb90" formatted="false">проекта</string>
+<string name="ui_a194bc64" formatted="false">Демоданните са обозначени и се премахват отделно от личните ви записи.</string>
+<string name="ui_e6bc1324" formatted="false">Разгледайте с демоданни</string>
+<string name="ui_e4a8d25" formatted="false">Премахни само демоданните</string>
+<string name="ui_91b54cc7" formatted="false">Локално. Лично. Под ваш контрол. Без аналитика и автоматична отправка на работни записи.</string>
+<string name="ui_98cd85a" formatted="false">Изтрий всички работни данни</string>
+<string name="ui_f6886fc9" formatted="false">Изтриване на всички данни?</string>
+<string name="ui_f4b3edc2" formatted="false">Задачи, проекти, събития, бележки, собствени шаблони и избрани ще бъдат премахнати. Напомнянията ще бъдат отменени.</string>
+<string name="ui_bcfd8eb3" formatted="false">Премахване на демоданните?</string>
+<string name="ui_77aff5e" formatted="false">Ще се премахнат само записите с обозначение Демо.</string>
+<string name="ui_38ae3fbf" formatted="false">Изберете дата</string>
+<string name="ui_b7867591" formatted="false">Изчисти датата</string>
+<string name="ui_ac189bef" formatted="false">Избери дата</string>
+<string name="ui_858e796b" formatted="false">Без час</string>
+<string name="ui_1335daa7" formatted="false">Промени часа</string>
+<string name="ui_2cbd329" formatted="false">Потвърди</string>
+<string name="ui_37a2bceb" formatted="false">Запази</string>
+<string name="ui_84a8e9cc" formatted="false">Незапазени промени</string>
+<string name="ui_9751370b" formatted="false">Да запазим ли промените?</string>
+<string name="ui_73a21e04" formatted="false">Отхвърли</string>
+<string name="ui_448596ac" formatted="false">Остани</string>
+<string name="ui_f4d67974" formatted="false">Напомняне</string>
+<string name="ui_601afb25" formatted="false">Минути преди срока</string>
+<string name="ui_ef2b69bc" formatted="false">Приблизително време; Android може да забави известието.</string>
+<string name="ui_84b67f38" formatted="false">Напомняния за важните неща</string>
+<string name="ui_2c714603" formatted="false">Разрешете известия, за да получавате локални напомняния. Отказът не пречи на работата.</string>
+<string name="ui_65e103aa" formatted="false">Продължи</string>
+<string name="ui_26fb59f2" formatted="false">Редактиране на задача</string>
+<string name="ui_59df072a" formatted="false">Заглавие *</string>
+<string name="ui_e2d179c9" formatted="false">Краен срок</string>
+<string name="ui_70422736" formatted="false">Час (по избор)</string>
+<string name="ui_5b9fb96a" formatted="false">По-малко полета</string>
+<string name="ui_4de62d09" formatted="false">Подзадачи, напомняния и още</string>
+<string name="ui_bf87ef74" formatted="false">Описание</string>
+<string name="ui_792baefb" formatted="false">Подзадачи</string>
+<string name="ui_792baef3" formatted="false">Подзадача</string>
+<string name="ui_d0ad7bcb" formatted="false">Премахни подзадача</string>
+<string name="ui_2cf7edf2" formatted="false">Нова подзадача</string>
+<string name="ui_33431e4f" formatted="false">Добави</string>
+<string name="ui_3afb79b6" formatted="false">Повторение</string>
+<string name="ui_b29b3563" formatted="false">Без повторение</string>
+<string name="ui_61f08d20" formatted="false">Всеки ден</string>
+<string name="ui_df1716ac" formatted="false">Седмично</string>
+<string name="ui_cddaf99b" formatted="false">Месечно</string>
+<string name="ui_c9b85683" formatted="false">Интервал N</string>
+<string name="ui_5778fb4e" formatted="false">До дата (по избор)</string>
+<string name="ui_28005a8" formatted="false">Брой повторения (по избор)</string>
+<string name="ui_7ecb3200" formatted="false">Проверете заглавието, датата, часа и повторението.</string>
+<string name="ui_78124faa" formatted="false">Дублирай</string>
+<string name="ui_358f81a0" formatted="false">Изтрий задача</string>
+<string name="ui_b47dfc43" formatted="false">Изтриване на задача?</string>
+<string name="ui_e63c854c" formatted="false">Завършване на всички подзадачи?</string>
+<string name="ui_ef3387a1" formatted="false">Повтаряща се задача</string>
+<string name="ui_d708e1de" formatted="false">Кои екземпляри да променим? Миналите се запазват.</string>
+<string name="ui_b60795a7" formatted="false">Този и бъдещите</string>
+<string name="ui_6d4ef2ec" formatted="false">Само този</string>
+<string name="ui_3bacc95b" formatted="false">Име *</string>
+<string name="ui_c075d3c3" formatted="false">Целева дата</string>
+<string name="ui_1f30b9f" formatted="false">Цвят</string>
+<string name="ui_3a09e494" formatted="false">Индиго</string>
+<string name="ui_35dd8f9f" formatted="false">Тюркоаз</string>
+<string name="ui_24e2d37a" formatted="false">Кехлибар</string>
+<string name="ui_441c5ba2" formatted="false">Изтрий проект</string>
+<string name="ui_c1d4d7e" formatted="false">Изтриване на проект</string>
+<string name="ui_e2dae7ab" formatted="false">Преместването запазва задачите във входящи, а бележките и събитията — без проект. Изтриването на съдържанието премахва всички свързани записи. И двата избора изтриват копията на прикачените файлове. Оригиналите се запазват.</string>
+<string name="ui_2de7a599" formatted="false">Премести във входящи</string>
+<string name="ui_d4864ae5" formatted="false">Изтрий със съдържанието</string>
+<string name="ui_9076d2e" formatted="false">Цял ден</string>
+<string name="ui_41e3741f" formatted="false">Начало</string>
+<string name="ui_c78867df" formatted="false">Начален час</string>
+<string name="ui_1edc7ef" formatted="false">Край</string>
+<string name="ui_8b72312a" formatted="false">Краен час</string>
+<string name="ui_3bee7baa" formatted="false">Място</string>
+<string name="ui_96cc0336" formatted="false">Краят не може да е преди началото.</string>
+<string name="ui_37550dae" formatted="false">Експорт .ics</string>
+<string name="ui_39bbd35e" formatted="false">Изтрий</string>
+<string name="ui_44bfd6ce" formatted="false">Изтриване на събитие?</string>
+<string name="ui_87a1a08e" formatted="false">Бележка</string>
+<string name="ui_4b33669" formatted="false">ЗАПАЗЕНО</string>
+<string name="ui_a48fabc3" formatted="false">ЗАПАЗВАНЕ…</string>
+<string name="ui_c6054b20" formatted="false">Заглавие</string>
+<string name="ui_10129e44" formatted="false">Вашите мисли и идеи</string>
+<string name="ui_8f19c1f5" formatted="false">Добави точка в списък</string>
+<string name="ui_4a62cb3c" formatted="false">Тагове</string>
+<string name="ui_bc75ae6f" formatted="false">Закрепи</string>
+<string name="ui_80aaeeaf" formatted="false">Изтриване на бележка?</string>
+<string name="ui_39628679" formatted="false">Отложи напомнянето</string>
+<string name="ui_d8cf62d9" formatted="false">Дата на напомнянето</string>
+<string name="ui_101c78" formatted="false">Час</string>
+<string name="ui_7976bec9" formatted="false">Отложи до избрания час</string>
+<string name="ui_26384e2c" formatted="false">Напомнянето е отложено.</string>
+<string name="ui_4dcebfdd" formatted="false">Нов собствен шаблон</string>
+<string name="ui_dc2ec95c" formatted="false">Запазете стъпките си и ги използвайте отново с нова начална дата и избран проект.</string>
+<string name="ui_a3b4ec61" formatted="false">Име на шаблона</string>
+<string name="ui_49b612f4" formatted="false">Стъпки</string>
+<string name="ui_379dbebe" formatted="false">Задача</string>
+<string name="ui_1ba0d7fa" formatted="false">Дни от началото (0–3650)</string>
+<string name="ui_1a2c842" formatted="false">Премахни стъпката</string>
+<string name="ui_ba3489bd" formatted="false">Добави стъпка</string>
+<string name="ui_aa244bca" formatted="false">Запази шаблона</string>
+<string name="ui_b3f37cd1" formatted="false">История на проекта</string>
+<string name="ui_74dad0c3" formatted="false">НАПРЕДЪК</string>
+<string name="ui_47b5833b" formatted="false">Без крайна дата</string>
+<string name="ui_9b966ea" formatted="false">Редактирай</string>
+<string name="ui_9eeb24b7" formatted="false">Възстанови</string>
+<string name="ui_1e088960" formatted="false">Архивирай</string>
+<string name="ui_ece4812" formatted="false">История</string>
+<string name="ui_3c34b446" formatted="false">Табло</string>
+<string name="ui_f94fb8a9" formatted="false">Събития</string>
+<string name="ui_30ff8165" formatted="false">Нова задача в проекта…</string>
+<string name="ui_a547dcc8" formatted="false">Задачи в проекта</string>
+<string name="ui_f1dece5d" formatted="false">Първата стъпка започва тук.</string>
+<string name="ui_e45df13a" formatted="false">Всичко е завършено.</string>
+<string name="ui_d8cb098" formatted="false">Добавете задача по-горе или използвайте бутона +.</string>
+<string name="ui_a2d875d" formatted="false">Завършените задачи са в историята на този проект.</string>
+<string name="ui_46d69784" formatted="false">Идеите за този проект.</string>
+<string name="ui_67d482c4" formatted="false">Запазете първата бележка.</string>
+<string name="ui_f2ddf21d" formatted="false">Няма събития в проекта.</string>
+<string name="ui_fe91b2c6" formatted="false">Добавете събитие и изберете този проект.</string>
+<string name="ui_58a7fa8a" formatted="false">Запази като шаблон</string>
+<string name="ui_a38df7d7" formatted="false">Свършеното остава тук.</string>
+<string name="ui_120008bb" formatted="false">Махнете отметката, за да върнете задача в активните.</string>
+<string name="ui_2521ddaf" formatted="false">завършени задачи</string>
+<string name="ui_fecccb24" formatted="false">Историята започва с първата отметка.</string>
+<string name="ui_cf0c52a" formatted="false">Тук се показват само завършените задачи на този проект.</string>
+<string name="ui_fe4bd85c" formatted="false">Завършена на </string>
+<string name="ui_129e7971" formatted="false">Всички етапи на един екран. Използвайте ⋯ за преместване.</string>
+<string name="ui_b0f8ad52" formatted="false">В историята</string>
+<string name="ui_d4d3d140" formatted="false">Няма задачи</string>
+<string name="ui_56ecae4a" formatted="false">Премести</string>
+<string name="ui_b585027" formatted="false">Седмицата в перспектива</string>
+<string name="ui_d11de0d7" formatted="false">Малки стъпки. Вижте колко далеч стигнахте.</string>
+<string name="ui_c664a1a9" formatted="false">Предишна седмица</string>
+<string name="ui_1815f544" formatted="false">Следваща седмица</string>
+<string name="ui_a19fa002" formatted="false">ВАШИЯТ НАПРЕДЪК</string>
+<string name="ui_e61876af" formatted="false">завършена задача</string>
+<string name="ui_8017d42" formatted="false">проект с напредък</string>
+<string name="ui_672f8852" formatted="false">проекта с напредък</string>
+<string name="ui_57b2bdf9" formatted="false">Стъпка по стъпка</string>
+<string name="ui_12806f6a" formatted="false">Проекти с напредък</string>
+<string name="ui_b5ae887e" formatted="false">завършени тази седмица</string>
+<string name="ui_e110eae4" formatted="false">Общ напредък сега</string>
+<string name="ui_6bb74e3a" formatted="false">Завършено през седмицата</string>
+<string name="ui_b5f36aee" formatted="false">Всяка стъпка има значение.</string>
+<string name="ui_fd1ae592" formatted="false">Завършените през тази седмица задачи ще се появят тук.</string>
+<string name="ui_13c68240" formatted="false">Остава от тази седмица</string>
+<string name="ui_af2b51d7" formatted="false">Незавършени задачи със срок в избраната седмица.</string>
+<string name="ui_648c6e44" formatted="false">Няма оставащи задачи за тази седмица.</string>
+<string name="ui_9786796f" formatted="false">Планирай оставащите задачи</string>
+<string name="ui_1b101b8b" formatted="false">Нова дата за задачите</string>
+<string name="ui_595c4c08" formatted="false">задачи ще получат нов срок. Часовете и проектите се запазват.</string>
+<string name="ui_b6914871" formatted="false">Повече яснота. Всеки ден.</string>
+<string name="ui_6678eefb" formatted="false">Пропусни</string>
+<string name="ui_e560f759" formatted="false">Една цел.\nЯсен план.</string>
+<string name="ui_4116877e" formatted="false">Място за\nважните срещи.</string>
+<string name="ui_7703610d" formatted="false">Вашият ритъм.\nВашите шаблони.</string>
+<string name="ui_2d8bc19f" formatted="false">Съберете задачите в проекти, движете ги по етапи и виждайте напредъка. Завършеното остава в историята.</string>
+<string name="ui_8c0fca94" formatted="false">Планирайте нова среща или отворете календара със създадените срещи. Всичко важно е подръка.</string>
+<string name="ui_d5122259" formatted="false">Създайте свои чеклисти или започнете с готов шаблон. Изберете проект и начална дата — задачите са готови.</string>
+<string name="ui_f3be17d1" formatted="false">Към приложението</string>
+<string name="ui_84103365" formatted="false">Започнете на чисто</string>
+<string name="ui_6a12b99f" formatted="false">Разгледайте демо пространството</string>
+<string name="ui_4a75c442" formatted="false">Лично пространство. Данните остават на устройството.</string>
+<string name="ui_1447c58f" formatted="false">В избрани</string>
+<string name="ui_a134c96" formatted="false">Запази за по-късно</string>
+<string name="ui_7c1ab30a" formatted="false">Организация</string>
+<string name="ui_6dcc9e55" formatted="false">Клиенти</string>
+<string name="ui_1eb6c8c" formatted="false">Екип</string>
+<string name="ui_3b6f987c" formatted="false">Данни</string>
+<string name="ui_79f0948d" formatted="false">Финанси</string>
+<string name="ui_f3b34949" formatted="false">Контакти</string>
+<string name="ui_66efff49" formatted="false">По-ясна работа.\nПовече възможности.</string>
+<string name="ui_5d3af9e0" formatted="false">Подреждаме ежедневните процеси, за да имате повече време за хората, клиентите и развитието.</string>
+<string name="ui_37883ef5" formatted="false">Открийте вашата подкрепа</string>
+<string name="ui_b5320b55" formatted="false">Как можем да помогнем</string>
+<string name="ui_a9cd2efe" formatted="false">По-близо до\nвашата работа.</string>
+<string name="ui_654672a6" formatted="false">ЗА NEW LOOK</string>
+<string name="ui_6fed9d77" formatted="false">NEW LOOK 1 LTD EOOD подкрепя стартиращи, малки и средни предприятия и развити организации в подреждането на административни и оперативни процеси. Работим за по-ясни задачи и повече време за клиенти и развитие.</string>
+<string name="ui_350b9bac" formatted="false">От разговор към действие</string>
+<string name="ui_778d8b75" formatted="false">Вашите нужди</string>
+<string name="ui_357c3458" formatted="false">Ясен обхват</string>
+<string name="ui_f97158e3" formatted="false">Подреден процес</string>
+<string name="ui_e24ec948" formatted="false">Текуща подкрепа</string>
+<string name="ui_21bf57b5" formatted="false">Уточняваме текущите затруднения, обхвата и желания резултат.</string>
+<string name="ui_b542180f" formatted="false">Съгласуваме конкретни дейности, отговорности и очаквания.</string>
+<string name="ui_4b708a21" formatted="false">Подреждаме информацията и последователността на работата.</string>
+<string name="ui_eb48ce0b" formatted="false">Преглеждаме резултатите и адаптираме административната подкрепа.</string>
+<string name="ui_9bf1e2ac" formatted="false">Полезно още днес</string>
+<string name="ui_9964ecd2" formatted="false">Справочник</string>
+<string name="ui_53a52198" formatted="false">мин четене</string>
+<string name="ui_b7769f9a" formatted="false">Снимките са илюстративни и не представят служители на компанията.</string>
+<string name="ui_ac2ba021" formatted="false">Да освободим време\nза вашия бизнес.</string>
+<string name="ui_df16847c" formatted="false">Нека поговорим</string>
+<string name="ui_65bf2a75" formatted="false">Кога е полезно</string>
+<string name="ui_8371f375" formatted="false">Когато ежедневната координация отнема време от основната ви работа, започнете с конкретен процес и ясни отговорности. Обхватът се уточнява спрямо действителните нужди на организацията.</string>
+<string name="ui_94974331" formatted="false">Започнете сами</string>
+<string name="ui_2d45a13d" formatted="false">Полезно знание.</string>
+<string name="ui_ed6081b8" formatted="false">Практически насоки за по-подредена работа.</string>
+<string name="ui_d01ddf9d" formatted="false">Превърнете прочетеното в план</string>
+<string name="ui_805126d4" formatted="false">стъпки</string>
+<string name="ui_60ccce94" formatted="false">Добър план.\nПо-лесен старт.</string>
+<string name="ui_c638c12b" formatted="false">БИБЛИОТЕКА ОТ ШАБЛОНИ</string>
+<string name="ui_fbd73528" formatted="false">От идея към първа стъпка — за минута.</string>
+<string name="ui_bb10afe1" formatted="false">Създадени от вас</string>
+<string name="ui_bb021816" formatted="false">ПОДБОР НА УСЛУГИ</string>
+<string name="ui_869cccc8" formatted="false">От какво се нуждае\nвашият бизнес?</string>
+<string name="ui_7f364ff4" formatted="false">Отговорите се обработват само на устройството.</string>
+<string name="ui_20940a55" formatted="false">Колко често?</string>
+<string name="ui_81af2419" formatted="false">Еднократно</string>
+<string name="ui_a9c936cd" formatted="false">Основна цел</string>
+<string name="ui_eff86753" formatted="false">По-добра организация</string>
+<string name="ui_83f8c759" formatted="false">По-бързи отговори</string>
+<string name="ui_182bd5ba" formatted="false">Подредена адаптация</string>
+<string name="ui_558a1b94" formatted="false">По-точни данни</string>
+<string name="ui_ff45280c" formatted="false">Ясни плащания</string>
+<string name="ui_3b76f3c2" formatted="false">Друго</string>
+<string name="ui_59e226b2" formatted="false">Покажи препоръки</string>
+<string name="ui_c1c757a9" formatted="false">Обща консултация</string>
+<string name="ui_fa3e44aa" formatted="false">Съответства на избран тип задачи.</string>
+<string name="ui_1bca3b54" formatted="false">Подкрепя избраната основна цел.</string>
+<string name="ui_40ce3547" formatted="false">Разгледайте услугата</string>
+<string name="ui_40b32134" formatted="false">Преглед и редакция на запитването</string>
+<string name="ui_bf7fa37a" formatted="false">Отвори в пощата</string>
+<string name="ui_f3ce6ad3" formatted="false">Изпращате сами в приложението за поща. Работни записи не са включени.</string>
+<string name="ui_c6b1ccc4" formatted="false">Да поговорим.</string>
+<string name="ui_cc86ee93" formatted="false">Обади се</string>
+<string name="ui_3bad4c73" formatted="false">Имейл</string>
+<string name="ui_95fe5480" formatted="false">Отвори карта</string>
+<string name="ui_734f32ec" formatted="false">Копирай</string>
+<string name="ui_17896530" formatted="false">Шаблонът е премахнат</string>
+<string name="ui_cd7d44fe" formatted="false">Само на устройството</string>
+<string name="ui_432e14f8" formatted="false">Вашето начало</string>
+<string name="ui_6599cec5" formatted="false">Добави към проект</string>
+<string name="ui_b9331640" formatted="false">Създай нов проект</string>
+<string name="ui_97cd4b16" formatted="false">Име на новия проект</string>
+<string name="ui_ba7ecf38" formatted="false">Начална дата</string>
+<string name="ui_e85d1646" formatted="false">Създайте вашия план</string>
+<string name="ui_91640c04" formatted="false">Готово. Планът вече е ваш.</string>
+<string name="ui_33667c98" formatted="false">Отвори проекта</string>
+<string name="ui_5cdffa" formatted="false">Какво включва</string>
+<string name="ui_49b612ec" formatted="false">Стъпка</string>
+<string name="ui_c49f1d86" formatted="false">дни от началото</string>
+<string name="ui_2fb6391a" formatted="false">Създава независим проект и редактируеми задачи. Нищо не се изпраща на компанията.</string>
+<string name="ui_6365ac5c" formatted="false">Добавя редактируеми задачи към избрания проект. Нищо не се изпраща на компанията.</string>
+<string name="ui_f1cdf00" formatted="false">Запази промените в шаблона</string>
+<string name="ui_ff853f3d" formatted="false">Изтрий шаблона</string>
+<string name="ui_5668fa00" formatted="false">Нуждаете се от подкрепа?</string>
+<string name="ui_37a284f0" formatted="false">Изтриване на шаблон?</string>
+<string name="ui_80edea1a" formatted="false">Създадените проекти се запазват.</string>
+<string name="ui_b00f917" formatted="false">Календар</string>
+<string name="ui_ffdaa" formatted="false">Още</string>
+<string name="ui_96e8910e" formatted="false">Нещо ново.</string>
+<string name="ui_399237ef" formatted="false">Освободете място за следващата стъпка.</string>
+<string name="ui_bdc487b7" formatted="false">Вашият ден,\nс повече яснота.</string>
+<string name="ui_1f6b57dc" formatted="false">за днес</string>
+<string name="ui_f6edc67b" formatted="false">Вашите собствени шаблони</string>
+<string name="ui_1379dd99" formatted="false">Създайте свой чеклист веднъж и го използвайте във всеки проект. Можете да запазите и готов проект като шаблон.</string>
+<string name="ui_a7a2b070" formatted="false">Моите шаблони</string>
+<string name="ui_4609a8f9" formatted="false">Седмичен обзор</string>
+<string name="ui_2aa6536" formatted="false">завършени задачи · вижте напредъка</string>
+<string name="ui_e78c8e01" formatted="false">Моите проекти</string>
+<string name="ui_5ef984f4" formatted="false">Всички проекти</string>
+<string name="ui_416ceb09" formatted="false">Започнете с проект.</string>
+<string name="ui_bb1cd235" formatted="false">Съберете задачите, бележките и събитията около една цел.</string>
+<string name="ui_71b9c78b" formatted="false">В календара</string>
+<string name="ui_c355dfbe" formatted="false">Добър план. По-лесен старт.</string>
+<string name="ui_939ba230" formatted="false">8 готови работни процеса</string>
+<string name="ui_eccd153c" formatted="false">ДНЕС НА ФОКУС</string>
+<string name="ui_e6d8b19b" formatted="false">Чисто начало.</string>
+<string name="ui_c24d0cce" formatted="false">Добре свършена работа.</string>
+<string name="ui_3db8d40" formatted="false">следващи стъпки.</string>
+<string name="ui_bd197d74" formatted="false">Добавете първата задача за днес.</string>
+<string name="ui_d6d2d9b9" formatted="false">Вашето пространство.</string>
+<string name="ui_16d090e" formatted="false">РАБОТА &amp; ИДЕИ</string>
+<string name="ui_dd9a197d" formatted="false">Инструментите за по-подреден ден.</string>
+<string name="ui_3f3ea5e7" formatted="false">Шаблони</string>
+<string name="ui_f86efb8d" formatted="false">активни</string>
+<string name="ui_d6827b5c" formatted="false">записани</string>
+<string name="ui_f5e0aefb" formatted="false">работни процеса</string>
+<string name="ui_a648eb3e" formatted="false">Практически насоки</string>
+<string name="ui_8437b956" formatted="false">Съхранено &amp; лично</string>
+<string name="ui_65aed1e5" formatted="false">Настройки</string>
+<string name="ui_6e715907" formatted="false">Пространство само за вас.</string>
+<string name="ui_c349131f" formatted="false">Без профил, облак и автоматично споделяне на работните записи.</string>
+<string name="ui_72a66044" formatted="false">Мисли, които заслужават място.</string>
+<string name="ui_94a5d03a" formatted="false">Една идея е достатъчна.</string>
+<string name="ui_6d0b0e8c" formatted="false">Създайте бележка за среща, проект или следващата добра идея.</string>
+<string name="ui_75c44aff" formatted="false">Закрепена</string>
+</resources>

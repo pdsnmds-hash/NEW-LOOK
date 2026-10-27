@@ -1,0 +1,448 @@
+<resources>
+<string name="app_name">NEW LOOK</string>
+<string name="reminders">Reminders</string>
+<string name="complete">Complete</string>
+<string name="ui_3bee53e8" formatted="false">Back</string>
+<string name="ui_c36067d8" formatted="false">Find something…</string>
+<string name="ui_635cec07" formatted="false">Clear search</string>
+<string name="ui_c863b8fc" formatted="false">Add something for today…</string>
+<string name="ui_a81c358f" formatted="false">Add task</string>
+<string name="ui_1eae5e3" formatted="false">Demo</string>
+<string name="ui_1081ca63" formatted="false">Overdue</string>
+<string name="ui_24a80096" formatted="false">Open task</string>
+<string name="ui_e042010f" formatted="false">Done</string>
+<string name="ui_ec15f7a3" formatted="false">In progress</string>
+<string name="ui_3efb3d38" formatted="false">To do</string>
+<string name="ui_3bf21f96" formatted="false">Low</string>
+<string name="ui_3b571b97" formatted="false">High</string>
+<string name="ui_498261d9" formatted="false">Urgent</string>
+<string name="ui_3020cef0" formatted="false">Normal</string>
+<string name="ui_c1fe6b90" formatted="false">No tasks yet</string>
+<string name="ui_68cfe137" formatted="false">completed</string>
+<string name="ui_fd1bc" formatted="false">DAY</string>
+<string name="ui_f94fb88f" formatted="false">Event</string>
+<string name="ui_cc9c89a4" formatted="false">Task completed!</string>
+<string name="ui_a6c2dc98" formatted="false">Make time to meet.</string>
+<string name="ui_35cc84f7" formatted="false">CALENDAR</string>
+<string name="ui_ac7e6f35" formatted="false">Plan your next meeting or see the dates you’ve already booked.</string>
+<string name="ui_a6d19577" formatted="false">Schedule a meeting</string>
+<string name="ui_674e211b" formatted="false">Choose a date and add the details.</string>
+<string name="ui_f9f50c2e" formatted="false">My meetings</string>
+<string name="ui_1cd7d9ca" formatted="false">See your meetings and the booked dates on your calendar.</string>
+<string name="ui_5bf2fc96" formatted="false">Choose a day for your new meeting.</string>
+<string name="ui_17e87c9" formatted="false">Marked days have meetings. Tap a date to see them.</string>
+<string name="ui_b6a5a291" formatted="false">Previous month</string>
+<string name="ui_ab321dcb" formatted="false">Next month</string>
+<string name="ui_3df0e385" formatted="false">meetings</string>
+<string name="ui_61ffad39" formatted="false">Day with meetings</string>
+<string name="ui_1eb0315" formatted="false">Today</string>
+<string name="ui_e90525da" formatted="false">Schedule for this date</string>
+<string name="ui_b82793e5" formatted="false">No meetings on this date.</string>
+<string name="ui_6b11713b" formatted="false">Choose a marked day or schedule a new meeting.</string>
+<string name="ui_a6b97bba" formatted="false">Your workspace couldn’t open.</string>
+<string name="ui_d75d72da" formatted="false">Your records haven’t been deleted. Please try again.</string>
+<string name="ui_8ca31f1d" formatted="false">Try again</string>
+<string name="ui_231f934d" formatted="false">New note</string>
+<string name="ui_b4a0870f" formatted="false">New project</string>
+<string name="ui_b08bbd5c" formatted="false">New event</string>
+<string name="ui_d146f81f" formatted="false">New task</string>
+<string name="ui_5af5f922" formatted="false">Search everything</string>
+<string name="ui_7f288378" formatted="false">Projects</string>
+<string name="ui_5ba7936d" formatted="false">Active</string>
+<string name="ui_3b3e9dcf" formatted="false">Archive</string>
+<string name="ui_fcceef7d" formatted="false">Favorites</string>
+<string name="ui_84cd6138" formatted="false">Keep what helps.</string>
+<string name="ui_219f6fc5" formatted="false">Save a service, guide or template.</string>
+<string name="ui_633ccad9" formatted="false">Action failed</string>
+<string name="ui_bce02f2d" formatted="false">Close</string>
+<string name="ui_18156546" formatted="false">Unfinished subtasks</string>
+<string name="ui_8664e204" formatted="false">Complete all subtasks too?</string>
+<string name="ui_a968501d" formatted="false">Complete all</string>
+<string name="ui_ac92b555" formatted="false">Project files</string>
+<string name="ui_88edd492" formatted="false">Documents and photos, kept close to your work.</string>
+<string name="ui_1a920fbf" formatted="false">Add files</string>
+<string name="ui_b9e5da47" formatted="false">Add photos</string>
+<string name="ui_66756ed2" formatted="false">Copying files…</string>
+<string name="ui_d1f8cc23" formatted="false">Local copies · up to 50 MB per file. Originals stay unchanged.</string>
+<string name="ui_dbfa0d52" formatted="false">Everything your project needs, together.</string>
+<string name="ui_53bb9fa9" formatted="false">Add your first document or photo.</string>
+<string name="ui_448c9d28" formatted="false">Open</string>
+<string name="ui_e73f995e" formatted="false">Share</string>
+<string name="ui_56ea76d8" formatted="false">Remove</string>
+<string name="ui_200a48e" formatted="false">file</string>
+<string name="ui_3e13f162" formatted="false">files</string>
+<string name="ui_79e4ea4a" formatted="false">The JSON backup includes workspace records, not attached files. Keep important originals separately.</string>
+<string name="ui_d43b22bd" formatted="false">Remove file?</string>
+<string name="ui_b0b28587" formatted="false">Only the app\'s copy will be deleted. The original stays unchanged.</string>
+<string name="ui_6e903249" formatted="false">One thing at a time.</string>
+<string name="ui_4fd4bb1d" formatted="false">MY TASKS</string>
+<string name="ui_e7e49c7c" formatted="false">Small steps. Visible progress.</string>
+<string name="ui_3007397c" formatted="false">All</string>
+<string name="ui_1081ca6b" formatted="false">Overdue</string>
+<string name="ui_325e766" formatted="false">7 days</string>
+<string name="ui_2c3e39a8" formatted="false">No date</string>
+<string name="ui_e0420117" formatted="false">Done</string>
+<string name="ui_d7ff9795" formatted="false">Inbox</string>
+<string name="ui_6e38d2a6" formatted="false">tasks</string>
+<string name="ui_4e40ec33" formatted="false">Filters</string>
+<string name="ui_31963493" formatted="false">Done</string>
+<string name="ui_3baaf834" formatted="false">Select</string>
+<string name="ui_9996579d" formatted="false">selected</string>
+<string name="ui_bc09a87f" formatted="false">Complete</string>
+<string name="ui_a17abc50" formatted="false">Actions</string>
+<string name="ui_4cdfe615" formatted="false">Nothing here yet.</string>
+<string name="ui_648b81bd" formatted="false">Add a task or adjust your filters.</string>
+<string name="ui_437d3a98" formatted="false">Your selected tasks.</string>
+<string name="ui_de5c2e4a" formatted="false">New due date</string>
+<string name="ui_401fcf35" formatted="false">Change due date only</string>
+<string name="ui_af167ed9" formatted="false">Assign project only</string>
+<string name="ui_ce8560c" formatted="false">Export selected as CSV</string>
+<string name="ui_cdd7464e" formatted="false">Delete selected</string>
+<string name="ui_6c8252ab" formatted="false">Your list, your way.</string>
+<string name="ui_49aa4db1" formatted="false">Status</string>
+<string name="ui_295c6d10" formatted="false">Priority</string>
+<string name="ui_462a98c0" formatted="false">Project</string>
+<string name="ui_f5bdc646" formatted="false">Tags (comma separated)</string>
+<string name="ui_1f0f83b" formatted="false">Due date</string>
+<string name="ui_12445a23" formatted="false">With date</string>
+<string name="ui_91082fc0" formatted="false">Sort</string>
+<string name="ui_19d5e560" formatted="false">Create</string>
+<string name="ui_fe019207" formatted="false">Reset</string>
+<string name="ui_a4814a62" formatted="false">Show tasks</string>
+<string name="ui_ba33d24d" formatted="false">Complete selected tasks?</string>
+<string name="ui_f87eb786" formatted="false">All unfinished subtasks will also be completed.</string>
+<string name="ui_506ac32b" formatted="false">Delete selected tasks?</string>
+<string name="ui_c587cd6a" formatted="false">tasks will be deleted.</string>
+<string name="ui_57fe1f66" formatted="false">Nothing found just yet.</string>
+<string name="ui_a2010b48" formatted="false">Try another word or a shorter phrase.</string>
+<string name="ui_379dbec6" formatted="false">Tasks</string>
+<string name="ui_87a1a096" formatted="false">Notes</string>
+<string name="ui_9bca0e0d" formatted="false">Untitled</string>
+<string name="ui_2ddf6dfb" formatted="false">From NEW LOOK</string>
+<string name="ui_180640f2" formatted="false">Backups</string>
+<string name="ui_5e6ca640" formatted="false">You control your data.</string>
+<string name="ui_53f35355" formatted="false">The JSON backup contains workspace records, without attached files, and is not encrypted. Keep original files separately. Automatic cloud backup is disabled.</string>
+<string name="ui_4d6c8100" formatted="false">Export workspace records</string>
+<string name="ui_889d8d76" formatted="false">Export tasks as CSV</string>
+<string name="ui_bedd7d7a" formatted="false">Import JSON</string>
+<string name="ui_5f9d82eb" formatted="false">Import replaces the current workspace after validation and confirmation. Maximum 10 MB and 20,000 records.</string>
+<string name="ui_b204ca48" formatted="false">Workspace restored.</string>
+<string name="ui_8f1eeb15" formatted="false">Import preview</string>
+<string name="ui_1befeb98" formatted="false">projects</string>
+<string name="ui_961720c9" formatted="false">events</string>
+<string name="ui_246908b6" formatted="false">notes</string>
+<string name="ui_fcca0e2" formatted="false">Save a copy of your current records first.</string>
+<string name="ui_4dfc2ebe" formatted="false">Back up current workspace</string>
+<string name="ui_1afcebc" formatted="false">Replace current workspace</string>
+<string name="ui_3c04a55d" formatted="false">Cancel</string>
+<string name="ui_de7db199" formatted="false">Replace all current records?</string>
+<string name="ui_557afa55" formatted="false">Make sure you saved a backup. This replaces the entire workspace.</string>
+<string name="ui_13044b55" formatted="false">Make it yours.</string>
+<string name="ui_f2ba069a" formatted="false">Small preferences. A more personal space.</string>
+<string name="ui_e2ad7d4" formatted="false">App introduction</string>
+<string name="ui_69272b19" formatted="false">Appearance</string>
+<string name="ui_db7e50d1" formatted="false">System</string>
+<string name="ui_48cb1a73" formatted="false">Light</string>
+<string name="ui_3c40af67" formatted="false">Dark</string>
+<string name="ui_1eb6144" formatted="false">Language</string>
+<string name="ui_f979d21a" formatted="false">Your working week</string>
+<string name="ui_ffb2d488" formatted="false">Week starts on</string>
+<string name="ui_f04ea67c" formatted="false">Monday</string>
+<string name="ui_4221596d" formatted="false">Sunday</string>
+<string name="ui_3289e461" formatted="false">Default reminder</string>
+<string name="ui_a5f8b9b8" formatted="false">Reminders</string>
+<string name="ui_fd419bbd" formatted="false">Local notifications</string>
+<string name="ui_d7d97a4" formatted="false">Allowed</string>
+<string name="ui_da0ca797" formatted="false">Not allowed</string>
+<string name="ui_39f3114f" formatted="false">Android may delay delivery. Tasks and your calendar work without permission too.</string>
+<string name="ui_a128840f" formatted="false">Manage notifications</string>
+<string name="ui_e906cb6" formatted="false">Workspace</string>
+<string name="ui_1befeb90" formatted="false">projects</string>
+<string name="ui_a194bc64" formatted="false">Demo records are labeled and can be removed separately from your own work.</string>
+<string name="ui_e6bc1324" formatted="false">Explore with demo data</string>
+<string name="ui_e4a8d25" formatted="false">Remove demo records only</string>
+<string name="ui_91b54cc7" formatted="false">Local. Personal. In your control. No analytics or automatic sharing of workspace records.</string>
+<string name="ui_98cd85a" formatted="false">Delete all workspace data</string>
+<string name="ui_f6886fc9" formatted="false">Delete all data?</string>
+<string name="ui_f4b3edc2" formatted="false">Tasks, projects, events, notes, custom templates and favorites will be removed. Reminders will be canceled.</string>
+<string name="ui_bcfd8eb3" formatted="false">Remove demo records?</string>
+<string name="ui_77aff5e" formatted="false">Only records labeled Demo will be removed.</string>
+<string name="ui_38ae3fbf" formatted="false">Choose a date</string>
+<string name="ui_b7867591" formatted="false">Clear date</string>
+<string name="ui_ac189bef" formatted="false">Choose date</string>
+<string name="ui_858e796b" formatted="false">No time</string>
+<string name="ui_1335daa7" formatted="false">Change time</string>
+<string name="ui_2cbd329" formatted="false">Confirm</string>
+<string name="ui_37a2bceb" formatted="false">Save</string>
+<string name="ui_84a8e9cc" formatted="false">Unsaved changes</string>
+<string name="ui_9751370b" formatted="false">Save your changes?</string>
+<string name="ui_73a21e04" formatted="false">Discard</string>
+<string name="ui_448596ac" formatted="false">Stay</string>
+<string name="ui_f4d67974" formatted="false">Reminder</string>
+<string name="ui_601afb25" formatted="false">Minutes before</string>
+<string name="ui_ef2b69bc" formatted="false">Approximate timing; Android may delay delivery.</string>
+<string name="ui_84b67f38" formatted="false">Reminders for what matters</string>
+<string name="ui_2c714603" formatted="false">Allow notifications for local reminders. You can keep using the app if you decline.</string>
+<string name="ui_65e103aa" formatted="false">Continue</string>
+<string name="ui_26fb59f2" formatted="false">Edit task</string>
+<string name="ui_59df072a" formatted="false">Title *</string>
+<string name="ui_e2d179c9" formatted="false">Due date</string>
+<string name="ui_70422736" formatted="false">Time (optional)</string>
+<string name="ui_5b9fb96a" formatted="false">Fewer fields</string>
+<string name="ui_4de62d09" formatted="false">Subtasks, reminders &amp; more</string>
+<string name="ui_bf87ef74" formatted="false">Description</string>
+<string name="ui_792baefb" formatted="false">Subtasks</string>
+<string name="ui_792baef3" formatted="false">Subtask</string>
+<string name="ui_d0ad7bcb" formatted="false">Remove subtask</string>
+<string name="ui_2cf7edf2" formatted="false">New subtask</string>
+<string name="ui_33431e4f" formatted="false">Add</string>
+<string name="ui_3afb79b6" formatted="false">Repeat</string>
+<string name="ui_b29b3563" formatted="false">Does not repeat</string>
+<string name="ui_61f08d20" formatted="false">Daily</string>
+<string name="ui_df1716ac" formatted="false">Weekly</string>
+<string name="ui_cddaf99b" formatted="false">Monthly</string>
+<string name="ui_c9b85683" formatted="false">Interval N</string>
+<string name="ui_5778fb4e" formatted="false">Until date (optional)</string>
+<string name="ui_28005a8" formatted="false">Occurrence count (optional)</string>
+<string name="ui_7ecb3200" formatted="false">Check the title, date, time and recurrence.</string>
+<string name="ui_78124faa" formatted="false">Duplicate</string>
+<string name="ui_358f81a0" formatted="false">Delete task</string>
+<string name="ui_b47dfc43" formatted="false">Delete task?</string>
+<string name="ui_e63c854c" formatted="false">Complete every subtask?</string>
+<string name="ui_ef3387a1" formatted="false">Repeating task</string>
+<string name="ui_d708e1de" formatted="false">Which occurrences? Past occurrences will be kept.</string>
+<string name="ui_b60795a7" formatted="false">This and future</string>
+<string name="ui_6d4ef2ec" formatted="false">Only this one</string>
+<string name="ui_3bacc95b" formatted="false">Name *</string>
+<string name="ui_c075d3c3" formatted="false">Target date</string>
+<string name="ui_1f30b9f" formatted="false">Color</string>
+<string name="ui_3a09e494" formatted="false">Indigo</string>
+<string name="ui_35dd8f9f" formatted="false">Teal</string>
+<string name="ui_24e2d37a" formatted="false">Amber</string>
+<string name="ui_441c5ba2" formatted="false">Delete project</string>
+<string name="ui_c1d4d7e" formatted="false">Delete project</string>
+<string name="ui_e2dae7ab" formatted="false">Moving keeps tasks in Inbox and detaches notes and events. Deleting content removes all related records. Both options delete the project’s attached file copies; originals stay unchanged.</string>
+<string name="ui_2de7a599" formatted="false">Move to Inbox</string>
+<string name="ui_d4864ae5" formatted="false">Delete with content</string>
+<string name="ui_9076d2e" formatted="false">All day</string>
+<string name="ui_41e3741f" formatted="false">Start</string>
+<string name="ui_c78867df" formatted="false">Start time</string>
+<string name="ui_1edc7ef" formatted="false">End</string>
+<string name="ui_8b72312a" formatted="false">End time</string>
+<string name="ui_3bee7baa" formatted="false">Location</string>
+<string name="ui_96cc0336" formatted="false">The end cannot be before the start.</string>
+<string name="ui_37550dae" formatted="false">Export .ics</string>
+<string name="ui_39bbd35e" formatted="false">Delete</string>
+<string name="ui_44bfd6ce" formatted="false">Delete event?</string>
+<string name="ui_87a1a08e" formatted="false">Note</string>
+<string name="ui_4b33669" formatted="false">SAVED</string>
+<string name="ui_a48fabc3" formatted="false">SAVING…</string>
+<string name="ui_c6054b20" formatted="false">Title</string>
+<string name="ui_10129e44" formatted="false">Your thoughts and ideas</string>
+<string name="ui_8f19c1f5" formatted="false">Add checklist item</string>
+<string name="ui_4a62cb3c" formatted="false">Tags</string>
+<string name="ui_bc75ae6f" formatted="false">Pin note</string>
+<string name="ui_80aaeeaf" formatted="false">Delete note?</string>
+<string name="ui_39628679" formatted="false">Snooze reminder</string>
+<string name="ui_d8cf62d9" formatted="false">Reminder date</string>
+<string name="ui_101c78" formatted="false">Time</string>
+<string name="ui_7976bec9" formatted="false">Snooze until selected time</string>
+<string name="ui_26384e2c" formatted="false">Reminder snoozed.</string>
+<string name="ui_4dcebfdd" formatted="false">Create your own template</string>
+<string name="ui_dc2ec95c" formatted="false">Save your steps and reuse them with a new start date and a project of your choice.</string>
+<string name="ui_a3b4ec61" formatted="false">Template name</string>
+<string name="ui_49b612f4" formatted="false">Steps</string>
+<string name="ui_379dbebe" formatted="false">Task</string>
+<string name="ui_1ba0d7fa" formatted="false">Days from start (0–3650)</string>
+<string name="ui_1a2c842" formatted="false">Remove step</string>
+<string name="ui_ba3489bd" formatted="false">Add step</string>
+<string name="ui_aa244bca" formatted="false">Save template</string>
+<string name="ui_b3f37cd1" formatted="false">Project history</string>
+<string name="ui_74dad0c3" formatted="false">PROGRESS</string>
+<string name="ui_47b5833b" formatted="false">No target date</string>
+<string name="ui_9b966ea" formatted="false">Edit</string>
+<string name="ui_9eeb24b7" formatted="false">Unarchive</string>
+<string name="ui_1e088960" formatted="false">Archive</string>
+<string name="ui_ece4812" formatted="false">History</string>
+<string name="ui_3c34b446" formatted="false">Board</string>
+<string name="ui_f94fb8a9" formatted="false">Events</string>
+<string name="ui_30ff8165" formatted="false">Add a task to this project…</string>
+<string name="ui_a547dcc8" formatted="false">Project tasks</string>
+<string name="ui_f1dece5d" formatted="false">Your first step starts here.</string>
+<string name="ui_e45df13a" formatted="false">All caught up.</string>
+<string name="ui_d8cb098" formatted="false">Add a task above or use the + button.</string>
+<string name="ui_a2d875d" formatted="false">Completed tasks are in this project’s history.</string>
+<string name="ui_46d69784" formatted="false">Ideas for this project.</string>
+<string name="ui_67d482c4" formatted="false">Save your first note.</string>
+<string name="ui_f2ddf21d" formatted="false">No project events yet.</string>
+<string name="ui_fe91b2c6" formatted="false">Create an event and choose this project.</string>
+<string name="ui_58a7fa8a" formatted="false">Save as template</string>
+<string name="ui_a38df7d7" formatted="false">A record of what’s done.</string>
+<string name="ui_120008bb" formatted="false">Uncheck a task to move it back to the active list.</string>
+<string name="ui_2521ddaf" formatted="false">tasks completed</string>
+<string name="ui_fecccb24" formatted="false">History starts with the first checkmark.</string>
+<string name="ui_cf0c52a" formatted="false">Only this project’s completed tasks appear here.</string>
+<string name="ui_fe4bd85c" formatted="false">Completed on </string>
+<string name="ui_129e7971" formatted="false">All stages in one view. Use ⋯ to move a task.</string>
+<string name="ui_b0f8ad52" formatted="false">In history</string>
+<string name="ui_d4d3d140" formatted="false">No tasks</string>
+<string name="ui_56ecae4a" formatted="false">Reschedule</string>
+<string name="ui_b585027" formatted="false">Your week in perspective</string>
+<string name="ui_d11de0d7" formatted="false">Small steps. See how far you have come.</string>
+<string name="ui_c664a1a9" formatted="false">Previous week</string>
+<string name="ui_1815f544" formatted="false">Next week</string>
+<string name="ui_a19fa002" formatted="false">YOUR PROGRESS</string>
+<string name="ui_e61876af" formatted="false">task completed</string>
+<string name="ui_8017d42" formatted="false">project moved forward</string>
+<string name="ui_672f8852" formatted="false">projects moved forward</string>
+<string name="ui_57b2bdf9" formatted="false">Day by day</string>
+<string name="ui_12806f6a" formatted="false">Projects moved forward</string>
+<string name="ui_b5ae887e" formatted="false">completed this week</string>
+<string name="ui_e110eae4" formatted="false">Overall progress now</string>
+<string name="ui_6bb74e3a" formatted="false">Completed this week</string>
+<string name="ui_b5f36aee" formatted="false">Every step counts.</string>
+<string name="ui_fd1ae592" formatted="false">Tasks completed during this week will appear here.</string>
+<string name="ui_13c68240" formatted="false">Still on your list</string>
+<string name="ui_af2b51d7" formatted="false">Unfinished tasks due during the selected week.</string>
+<string name="ui_648c6e44" formatted="false">No unfinished tasks for this week.</string>
+<string name="ui_9786796f" formatted="false">Reschedule unfinished tasks</string>
+<string name="ui_1b101b8b" formatted="false">A new date for your tasks</string>
+<string name="ui_595c4c08" formatted="false">tasks will get a new due date. Times and projects stay the same.</string>
+<string name="ui_b6914871" formatted="false">A little clearer. Every day.</string>
+<string name="ui_6678eefb" formatted="false">Skip</string>
+<string name="ui_e560f759" formatted="false">One goal.\nA clear plan.</string>
+<string name="ui_4116877e" formatted="false">Make room for\nmeaningful meetings.</string>
+<string name="ui_7703610d" formatted="false">Your rhythm.\nYour templates.</string>
+<string name="ui_2d8bc19f" formatted="false">Bring tasks into projects, move them through stages and see your progress. Completed work stays in history.</string>
+<string name="ui_8c0fca94" formatted="false">Schedule a new meeting or open your booked dates. Keep every important detail close at hand.</string>
+<string name="ui_d5122259" formatted="false">Build your own checklists or use a ready-made template. Choose a project and a start date — your tasks are ready.</string>
+<string name="ui_f3be17d1" formatted="false">Back to app</string>
+<string name="ui_84103365" formatted="false">Start fresh</string>
+<string name="ui_6a12b99f" formatted="false">Explore the demo workspace</string>
+<string name="ui_4a75c442" formatted="false">Your personal space. Your data stays on this device.</string>
+<string name="ui_1447c58f" formatted="false">Saved</string>
+<string name="ui_a134c96" formatted="false">Save for later</string>
+<string name="ui_7c1ab30a" formatted="false">Organization</string>
+<string name="ui_6dcc9e55" formatted="false">Customers</string>
+<string name="ui_1eb6c8c" formatted="false">People</string>
+<string name="ui_3b6f987c" formatted="false">Data</string>
+<string name="ui_79f0948d" formatted="false">Finance</string>
+<string name="ui_f3b34949" formatted="false">Contact</string>
+<string name="ui_66efff49" formatted="false">Clearer work.\nMore possibility.</string>
+<string name="ui_5d3af9e0" formatted="false">We help organize everyday operations, making more room for people, customers and growth.</string>
+<string name="ui_37883ef5" formatted="false">Find your kind of support</string>
+<string name="ui_b5320b55" formatted="false">A little support goes a long way</string>
+<string name="ui_a9cd2efe" formatted="false">Closer to\nthe way you work.</string>
+<string name="ui_654672a6" formatted="false">ABOUT NEW LOOK</string>
+<string name="ui_6fed9d77" formatted="false">NEW LOOK 1 LTD EOOD supports startups, small and medium businesses and established organizations in organizing administrative and operational processes. The aim is clearer work and more time for customers and growth.</string>
+<string name="ui_350b9bac" formatted="false">From conversation to action</string>
+<string name="ui_778d8b75" formatted="false">Your needs</string>
+<string name="ui_357c3458" formatted="false">A clear scope</string>
+<string name="ui_f97158e3" formatted="false">An organized process</string>
+<string name="ui_e24ec948" formatted="false">Ongoing support</string>
+<string name="ui_21bf57b5" formatted="false">We clarify current friction, scope and the intended result.</string>
+<string name="ui_b542180f" formatted="false">We agree concrete activities, responsibilities and expectations.</string>
+<string name="ui_4b708a21" formatted="false">We structure information and the order of work.</string>
+<string name="ui_eb48ce0b" formatted="false">We review results and adapt administrative support.</string>
+<string name="ui_9bf1e2ac" formatted="false">Useful from day one</string>
+<string name="ui_9964ecd2" formatted="false">Guides</string>
+<string name="ui_53a52198" formatted="false">min read</string>
+<string name="ui_b7769f9a" formatted="false">Images are illustrative and do not identify company employees.</string>
+<string name="ui_ac2ba021" formatted="false">Let’s make room\nfor your business.</string>
+<string name="ui_df16847c" formatted="false">Let’s talk</string>
+<string name="ui_65bf2a75" formatted="false">When it helps</string>
+<string name="ui_8371f375" formatted="false">When daily coordination takes time away from core work, start with a concrete process and clear responsibilities. Scope is agreed around the actual needs of your organization.</string>
+<string name="ui_94974331" formatted="false">Make a start yourself</string>
+<string name="ui_2d45a13d" formatted="false">Useful by design.</string>
+<string name="ui_ed6081b8" formatted="false">Practical reading for a more organized working day.</string>
+<string name="ui_d01ddf9d" formatted="false">Turn this into a plan</string>
+<string name="ui_805126d4" formatted="false">steps</string>
+<string name="ui_60ccce94" formatted="false">A good plan.\nA simpler start.</string>
+<string name="ui_c638c12b" formatted="false">WORKFLOW LIBRARY</string>
+<string name="ui_fbd73528" formatted="false">From idea to first step, in a minute.</string>
+<string name="ui_bb10afe1" formatted="false">Made by you</string>
+<string name="ui_bb021816" formatted="false">SERVICE FINDER</string>
+<string name="ui_869cccc8" formatted="false">What does your\nbusiness need?</string>
+<string name="ui_7f364ff4" formatted="false">Answers stay on this device.</string>
+<string name="ui_20940a55" formatted="false">How often?</string>
+<string name="ui_81af2419" formatted="false">One time</string>
+<string name="ui_a9c936cd" formatted="false">Main goal</string>
+<string name="ui_eff86753" formatted="false">Better organization</string>
+<string name="ui_83f8c759" formatted="false">Faster replies</string>
+<string name="ui_182bd5ba" formatted="false">Organized onboarding</string>
+<string name="ui_558a1b94" formatted="false">More accurate data</string>
+<string name="ui_ff45280c" formatted="false">Clearer payments</string>
+<string name="ui_3b76f3c2" formatted="false">Something else</string>
+<string name="ui_59e226b2" formatted="false">Show recommendations</string>
+<string name="ui_c1c757a9" formatted="false">General consultation</string>
+<string name="ui_fa3e44aa" formatted="false">Matches a task type you selected.</string>
+<string name="ui_1bca3b54" formatted="false">Supports your selected main goal.</string>
+<string name="ui_40ce3547" formatted="false">View service</string>
+<string name="ui_40b32134" formatted="false">Review and edit your inquiry</string>
+<string name="ui_bf7fa37a" formatted="false">Open in email</string>
+<string name="ui_f3ce6ad3" formatted="false">You send it yourself in your email app. No workspace records are included.</string>
+<string name="ui_c6b1ccc4" formatted="false">Let’s talk.</string>
+<string name="ui_cc86ee93" formatted="false">Call</string>
+<string name="ui_3bad4c73" formatted="false">Email</string>
+<string name="ui_95fe5480" formatted="false">Open map</string>
+<string name="ui_734f32ec" formatted="false">Copy</string>
+<string name="ui_17896530" formatted="false">Template removed</string>
+<string name="ui_cd7d44fe" formatted="false">On your device</string>
+<string name="ui_432e14f8" formatted="false">Your starting point</string>
+<string name="ui_6599cec5" formatted="false">Add to project</string>
+<string name="ui_b9331640" formatted="false">Create a new project</string>
+<string name="ui_97cd4b16" formatted="false">New project name</string>
+<string name="ui_ba7ecf38" formatted="false">Start date</string>
+<string name="ui_e85d1646" formatted="false">Create your plan</string>
+<string name="ui_91640c04" formatted="false">Ready. This plan is now yours.</string>
+<string name="ui_33667c98" formatted="false">Open project</string>
+<string name="ui_5cdffa" formatted="false">What’s inside</string>
+<string name="ui_49b612ec" formatted="false">Step</string>
+<string name="ui_c49f1d86" formatted="false">days from start</string>
+<string name="ui_2fb6391a" formatted="false">Creates an independent project and editable tasks. Nothing is sent to the company.</string>
+<string name="ui_6365ac5c" formatted="false">Adds editable tasks to the selected project. Nothing is sent to the company.</string>
+<string name="ui_f1cdf00" formatted="false">Save template changes</string>
+<string name="ui_ff853f3d" formatted="false">Delete template</string>
+<string name="ui_5668fa00" formatted="false">Need a hand?</string>
+<string name="ui_37a284f0" formatted="false">Delete template?</string>
+<string name="ui_80edea1a" formatted="false">Previously created projects are kept.</string>
+<string name="ui_b00f917" formatted="false">Calendar</string>
+<string name="ui_ffdaa" formatted="false">More</string>
+<string name="ui_96e8910e" formatted="false">Something new.</string>
+<string name="ui_399237ef" formatted="false">Make room for your next step.</string>
+<string name="ui_bdc487b7" formatted="false">Your day,\na little clearer.</string>
+<string name="ui_1f6b57dc" formatted="false">for today</string>
+<string name="ui_f6edc67b" formatted="false">Your own templates</string>
+<string name="ui_1379dd99" formatted="false">Build a checklist once and reuse it in any project. You can also save an existing project as a template.</string>
+<string name="ui_a7a2b070" formatted="false">My templates</string>
+<string name="ui_4609a8f9" formatted="false">Weekly review</string>
+<string name="ui_2aa6536" formatted="false">tasks completed · see your progress</string>
+<string name="ui_e78c8e01" formatted="false">My projects</string>
+<string name="ui_5ef984f4" formatted="false">All projects</string>
+<string name="ui_416ceb09" formatted="false">Start with a project.</string>
+<string name="ui_bb1cd235" formatted="false">Bring tasks, notes and events together around one goal.</string>
+<string name="ui_71b9c78b" formatted="false">In your calendar</string>
+<string name="ui_c355dfbe" formatted="false">A good plan. A simpler start.</string>
+<string name="ui_939ba230" formatted="false">8 ready-to-use workflows</string>
+<string name="ui_eccd153c" formatted="false">TODAY IN FOCUS</string>
+<string name="ui_e6d8b19b" formatted="false">A fresh start.</string>
+<string name="ui_c24d0cce" formatted="false">A day well done.</string>
+<string name="ui_3db8d40" formatted="false">next steps.</string>
+<string name="ui_bd197d74" formatted="false">Add your first task for today.</string>
+<string name="ui_d6d2d9b9" formatted="false">Make space.</string>
+<string name="ui_16d090e" formatted="false">WORK &amp; IDEAS</string>
+<string name="ui_dd9a197d" formatted="false">A few tools for a more organized day.</string>
+<string name="ui_3f3ea5e7" formatted="false">Templates</string>
+<string name="ui_f86efb8d" formatted="false">active</string>
+<string name="ui_d6827b5c" formatted="false">saved</string>
+<string name="ui_f5e0aefb" formatted="false">workflows</string>
+<string name="ui_a648eb3e" formatted="false">Practical reading</string>
+<string name="ui_8437b956" formatted="false">Saved &amp; personal</string>
+<string name="ui_65aed1e5" formatted="false">Settings</string>
+<string name="ui_6e715907" formatted="false">A space that’s yours.</string>
+<string name="ui_c349131f" formatted="false">No account, cloud or automatic sharing of your work.</string>
+<string name="ui_72a66044" formatted="false">Thoughts worth keeping.</string>
+<string name="ui_94a5d03a" formatted="false">One idea is a start.</string>
+<string name="ui_6d0b0e8c" formatted="false">Save a meeting note, project thought or your next good idea.</string>
+<string name="ui_75c44aff" formatted="false">Pinned</string>
+</resources>

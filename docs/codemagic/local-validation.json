@@ -1,0 +1,9 @@
+{
+  "yaml_and_shell_syntax": "PASS",
+  "signing_bridge_permissions_paths_no_overwrite_missing_env": "PASS",
+  "java_properties_unicode_special_character_roundtrip": "PASS",
+  "verifier_signed_four_abi_fixture_and_unsigned_rejection": "PASS",
+  "cloud_build": "NOT RUN",
+  "existing_private_keys": "unchanged",
+  "test_key": "temporary only, deleted"
+}
