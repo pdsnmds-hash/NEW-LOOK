@@ -77,7 +77,7 @@ git push
 
 Workflow на Linux X2:
 
-1. Находит sdkmanager по полному пути внутри SDK; устанавливает platforms;android-37 и build-tools;36.0.0. Не полагается на sdkmanager в PATH.
+1. Находит sdkmanager по полному пути внутри SDK; устанавливает platforms;android-37.0 и build-tools;36.0.0. Не полагается на sdkmanager в PATH.
 2. `prepare_signing.py` создаёт `release/signing/upload-keystore.jks` и `release/upload-key.properties` с правами 600. Значение storeFile — `release/signing/upload-keystore.jks`. Скрипт проверяет CM_* и отказывается перезаписывать файлы; пароли не выводятся.
 3. Выполняет `./gradlew --no-daemon :app:testDebugUnitTest :app:lintDebug :app:bundleRelease`.
 4. `verify_aab.py` проверяет JAR-подпись AAB, совпадение сертификата с выбранным identity, все четыре ABI, отсутствие приватных signing-файлов внутри bundle.
@@ -97,3 +97,11 @@ Workflow на Linux X2:
 Перед следующей загрузкой в Google Play versionCode должен быть больше уже использованного: если 2 загружался, увеличьте до свободного значения и пересоберите. Для нового приложения App signing key можно поручить Google; upload key остаётся вашим ключом загрузки.
 
 Локальные результаты адаптации записаны в `local-validation.json`. Они не подтверждают облачный запуск NEW LOOK. Результат облака — только статус и артефакты реального билда Codemagic.
+
+## Исправление после облачного build №1
+
+Ошибка: `Failed to find package platforms;android-37`. В официальном XML Google пакет API 37 имеет ID `platforms;android-37.0`; локальная установка также находится в `platforms/android-37.0`. `compileSdk = 37` в Gradle остаётся прежним.
+
+Настройка вынесена в `configure_sdk.py`: выбирается sdkmanager с максимальной Pkg.Revision из source.properties, затем устанавливаются точные пакеты. Предупреждение XML v3/v4 само по себе не доказывает причину падения; в присланном полном логе причиной был отсутствующий package ID.
+
+Источник пакетов: https://dl.google.com/android/repository/repository2-3.xml . Локальная проверка выбора утилиты и аргументов использует mock SDK; она не заменяет повторный облачный билд.

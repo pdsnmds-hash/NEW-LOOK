@@ -5,5 +5,13 @@
   "verifier_signed_four_abi_fixture_and_unsigned_rejection": "PASS",
   "cloud_build": "NOT RUN",
   "existing_private_keys": "unchanged",
-  "test_key": "temporary only, deleted"
+  "test_key": "temporary only, deleted",
+  "sdk_configuration_fix": {
+    "newest_revision_selected": "PASS",
+    "correct_platform_id": "platforms;android-37.0",
+    "sdkmanager_failure_propagated": "PASS",
+    "missing_sdkmanager_rejected": "PASS",
+    "yaml_shell_syntax": "PASS",
+    "cloud_rebuild": "NOT RUN"
+  }
 }
